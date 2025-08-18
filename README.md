@@ -1,21 +1,28 @@
-# DevOps-100-Day-Challenge
-KodeKloud DevOps 100 Day challenge every task every day
+# DevOps 100-Day Challenge
 
+This repository contains my solutions and notes for the **KodeKloud DevOps 100-Day Challenge**. The challenge focuses on **hands-on practical tasks every day**, simulating real-world DevOps scenarios.
 
-Instead of passive lectures, I’ll tackle one practical DevOps task per day—just like on the job
+## About the Challenge
 
-The challenge guides you through key areas including:
+Instead of passive lectures, the challenge encourages tackling **one practical DevOps task per day**, just like on the job. By the end of 100 days, you will have built a strong foundation in multiple DevOps tools and practices.
 
-Linux scripting ,system navigation and troubleshooting
+## Key Areas Covered
 
-Git workflows (branching, rebasing, team practices)
+The challenge guides you through the following topics:
 
-Docker containerization
+- **Linux**: Scripting, system navigation, and troubleshooting  
+- **Git**: Workflows including branching, rebasing, and team practices  
+- **Docker**: Containerization and management  
+- **Kubernetes**: Deployment, scaling, and troubleshooting  
+- **Jenkins**: CI/CD pipelines and automation  
+- **Ansible**: Infrastructure automation and configuration management  
+- **Terraform**: Infrastructure as Code (IaC) for AWS, GCP, and Azure  
 
-Kubernetes deployment and troubleshooting
+## Objective
 
-Jenkins pipelines and CI/CD pipelines
+The main goal of this challenge is to **build hands-on skills** in DevOps, create a **public portfolio**, and prepare for real-world DevOps tasks.
 
-Infrastructure automation using Ansible
+## Repository Structure
 
-Infrastructure as Code with Terraform (across AWS/GCP/Azure)
+Each day has a separate folder or file containing:
+
